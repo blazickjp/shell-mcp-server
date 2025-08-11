@@ -19,7 +19,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project.scripts]
-shell-mcp-server = "shell_mcp_server.server:main"
+shell-mcp-server = "shell_mcp_server:main"
 
 [project.optional-dependencies]
 test = [
