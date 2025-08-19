@@ -7,6 +7,10 @@
 
 > 🚀 Add secure shell command execution capabilities to your AI applications with the Shell MCP Server! Built for the Model Context Protocol.
 
+<a href="https://glama.ai/mcp/servers/@blazickjp/shell-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@blazickjp/shell-mcp-server/badge" alt="Shell Server MCP server" />
+</a>
+
 ## ✨ Features
 
 - 🔒 **Secure Execution** - Commands run only in specified directories
